@@ -1,0 +1,20 @@
+{
+    "json": {
+        "id": 2,
+        "username": "json",
+        "email": "json@email.com",
+        "full_name": "json Bang"
+    },
+    "json1": {
+        "id": 2,
+        "username": "json1",
+        "email": "json@email.com",
+        "full_name": "json Bang"
+    },
+    "json2": {
+        "id": 2,
+        "username": "json2",
+        "email": "json@email.com",
+        "full_name": "json Bang"
+    }
+}
